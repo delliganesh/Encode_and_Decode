@@ -28,3 +28,4 @@ if __name__ == "__main__":
     print("Encripted Message : ",token)
     d_m  = f.decrypt(token).decode()
     print("Decrepted Message : ",d_m)
+    print("Finished")
